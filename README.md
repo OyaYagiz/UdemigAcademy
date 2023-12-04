@@ -10,6 +10,6 @@ providing a seamless educational technology platform
 
 that is optimised for all devices.
 
-<h2>Screenshot</h2>
+<h2>Gif</h2>
 
 ![](udemig.gif)
