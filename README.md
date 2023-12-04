@@ -12,4 +12,4 @@ that is optimised for all devices.
 
 <h2>Screenshot</h2>
 
-![](ekran.gif)
+![](udemig.gif)
