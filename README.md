@@ -1,16 +1,15 @@
-<h1>udemig</h1>
-Udemig-Academy Clon sayfasıdır.
+<h1>UdemigAcademy</h1>
 
-<h2>Kullanılan Teknolojiler</h2>
-HTML CSS Kodları ile
+Udemig boasts a responsive structure crafted using
 
-<h2>Ekran Görüntüsü</h2>
+HTML and CSS. Udemig distinguishes itself with its 
+
+modern design and intuitive interface while 
+
+providing a seamless educational technology platform 
+
+that is optimised for all devices.
+
+<h2>Screenshot</h2>
 
 ![](ekran.gif)
-# UdemigAcademy
-# UdemigAcademy
-# UdemigAcademy
-# UdemigAcademy
-# UdemigAcademy
-# UdemigAcademy
-# UdemigAcademy
