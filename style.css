@@ -199,8 +199,7 @@ h3{
     text-align: left;
 }
 .facilities-col img {
-    max-height: 300px;
-    max-width: 300px;
+    width: 100%;
     border-radius: 10px;
 }
 .facilities-col p {
@@ -262,7 +261,7 @@ footer h1{
 
 /* responsive*/
 @media(max-width:576px){
-    na .bi{
+    nav .bi{
         display: block;
     }
     .nav-links{
@@ -270,5 +269,8 @@ footer h1{
     }
     .row{
         flex-direction: column;
+    }
+    .text-box h1{
+        font-size: 30px;
     }
 }
